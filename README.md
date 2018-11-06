@@ -13,9 +13,9 @@ Ruby 2.3.1
 The default security group on your account must allow SSH access from your IP address
 
 ### How to use it:
--   clone the repo
+-   clone the repo and go to the directory
 ```
-git clone https://github.com/chavo1/extensive-kitchen-terraform.git
+git clone https://github.com/chavo1/extensive-kitchen-terraform.git && cd extensive-kitchen-terraform
 ```
 -   download needed gems  
 ```
