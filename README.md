@@ -6,8 +6,7 @@ Make sure you have the following prerequisites for this tutorial
   
 An AWS Account  
 An AWS Access Key ID  
-An AWS Secret Key  
-An AWS Keypair  
+An AWS Secret Key   
 Terraform installed  
 Bundler installed  
 Ruby 2.3.1  
