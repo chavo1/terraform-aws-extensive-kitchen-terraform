@@ -31,7 +31,8 @@ $ ./test.sh
 ```
 
 -   the result from the test should be as follow:
-```Verifying local
+```
+Verifying local
 
 Profile: Extensive Kitchen-Terraform (extensive_suite)
 Version: 0.1.0
